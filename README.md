@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋 [I'm Pritom Paul](https://www.linkedin.com/in/pritom-paul789/)
 
 <!--
 **pritom5928/pritom5928** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
