@@ -1,6 +1,6 @@
 
 
-Hi ![]<img src="https://user-images.githubusercontent.com/44342530/151833088-c7f1f961-953b-4b57-8fdd-d9639398df1c.gif" width="30" height="20"> [I'm Pritom Paul](https://www.linkedin.com/in/pritom-paul789/)
+Hi <img src="https://user-images.githubusercontent.com/44342530/151833088-c7f1f961-953b-4b57-8fdd-d9639398df1c.gif" width="20" height="20"> [I'm Pritom Paul](https://www.linkedin.com/in/pritom-paul789/)
 
 <!--
 **pritom5928/pritom5928** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
