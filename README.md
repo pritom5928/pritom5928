@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a href="https://linkedin.com/in/pritom-paul789" target="blank">Pritom Paul</a></h1>
-<h3 align="center">A passionate Fullstack Developer experienced in C# | JavaScript | Angular | RDBMS |</h3></br>
+<h3 align="center">A passionate Fullstack Developer experienced in C# | JavaScript | Angular | RDBMS |</h3><hr>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pritom5928&label=Profile%20views&color=0e75b6&style=flat" alt="pritom5928" /> </p>
 
@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/pritom-paul789/](https://www.linkedin.com/in/pritom-paul789/)
 
-:construction:<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://codepen.io/pritom5928" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="pritom5928" height="30" width="40" /></a>
 <a href="https://dev.to/pritom5928" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="pritom5928" height="30" width="40" /></a>
