@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://linkedin.com/in/pritom-paul789" target="blank">Pritom Paul</a></h1>
-<h3 align="center">A passionate Fullstack Developer experienced in C# | JavaScript | Angular | RDBMS |</h3><hr>
-
+<h3 align="center">A passionate Fullstack Developer experienced in C# | JavaScript | Angular | RDBMS |</h3>
+____________________________________________________________________________________________________________________
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pritom5928&label=Profile%20views&color=0e75b6&style=flat" alt="pritom5928" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pritom5928" alt="pritom5928" /></a> </p>
