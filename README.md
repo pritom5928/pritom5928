@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a href="https://linkedin.com/in/pritom-paul789" target="blank">Pritom Paul</a></h1>
-<h3 align="center">A passionate Fullstack Developer experienced in C# | JavaScript | Angular | RDBMS |</h3>
+<h3 align="center">A passionate Fullstack Developer experienced in C# | JavaScript | Angular | RDBMS |</h3></br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritom5928&label=Profile%20views&color=0e75b6&style=flat" alt="pritom5928" /> </p>
 
